@@ -1,5 +1,6 @@
 system.out.println("hello")
 
+<<<<<<< HEAD
 
 
 
@@ -14,3 +15,6 @@ system.out.println("hello")
 # git branch -M main-creating a main branch
 # git remote add origin https://github.com/arina253/gitrepoZORBA.gitconnect a local repo to git remote repo
 # git push -u origin main-push the code
+=======
+system.out.println "hello2")
+>>>>>>> 95510bfebc3ce6c6ed114957acd32db96ce996bb
