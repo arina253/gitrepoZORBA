@@ -14,7 +14,7 @@ system.out.println("hello")
 # add and make it public
 # git branch -M main-creating a main branch
 # git remote add origin https://github.com/arina253/gitrepoZORBA.gitconnect a local repo to git remote repo
-# git push -u origin main-push the code
+# git push -u origin main-push the code and check the repo
 =======
 system.out.println "hello2")
 >>>>>>> 95510bfebc3ce6c6ed114957acd32db96ce996bb
